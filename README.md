@@ -220,12 +220,6 @@ Backend
 
 ---
 
-# 👨‍💻 Author
-
-**Mridul Tripathi**
-
-GitHub:
-https://github.com/midouru
 
 ---
 
